@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:regular,bold,italic&subset=latin,latin-ext');
+
+body {
+  background: url('./shoes1.jpg');
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  background-size: cover;
+}
+
+h1{
+  color : #47525E;
+  text-align: center;
+  font-family: Josefin Sans, sans-serif ;
+  font-size: 80px;
+}
